@@ -28,4 +28,4 @@ As we know that widgets are arranged in an app like a tree like fashion. so, if 
     i. Change Notifier : Data Holder class
     ii. ChangeNotifierProvider: Entry Point,
     iii. Consumer: User that use the data,
-    iv. Provider.of<> : Interats with the data holder
+    iv. Provider.of<>(): Interats with the data holder
